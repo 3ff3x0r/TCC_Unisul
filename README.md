@@ -1,18 +1,6 @@
-#NO UNIVERSO DOS BITS E CÉREBROS
-#UMA EXPLORAÇÃO DA TEORIA DA INFORMAÇÃO ALGORÍTMICA
+# NO UNIVERSO DOS BITS E CÉREBROS: UMA EXPLORAÇÃO DA TEORIA DA INFORMAÇÃO ALGORÍTMICA
 
 # Referências Bibliográficas
-<html>
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
-
-</head>
-
-<body lang=PT-BR style='word-wrap:break-word'>
-
-<div class=WordSection1>
 
 <p class=MsoNormal style='margin-bottom:6.0pt;line-height:normal;text-autospace:
 none'><span lang=EN-CA style='font-size:10.0pt'>AGAPOW, P.-M. &quot;Building a
