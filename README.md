@@ -1,3 +1,6 @@
+#NO UNIVERSO DOS BITS E CÉREBROS
+#UMA EXPLORAÇÃO DA TEORIA DA INFORMAÇÃO ALGORÍTMICA
+
 # Referências Bibliográficas
 <html>
 
